@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/kurs/WB/app/src/main/res/layout/activity_main.xml" value="0.1574074074074074" />
+        <entry key="..\:/kurs/WB/app/src/main/res/layout/activity_second.xml" value="0.2125" />
+        <entry key="..\:/kurs/WB/app/src/main/res/layout/fragment_dota.xml" value="0.2125" />
+        <entry key="..\:/kurs/WB/app/src/main/res/layout/fragment_item.xml" value="0.2125" />
+        <entry key="..\:/kurs/WB/app/src/main/res/layout/fragment_item_list.xml" value="0.1984375" />
+        <entry key="..\:/kurs/WB/app/src/main/res/layout/frament_activity.xml" value="0.1574074074074074" />
+        <entry key="..\:/kurs/WB/app/src/main/res/layout/item_activity.xml" value="0.2125" />
+        <entry key="..\:/kurs/WB/app/src/main/res/layout/item_fragment.xml" value="0.2125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
